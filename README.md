@@ -9,7 +9,8 @@ This is a rogue-like terminal game written in C++. MVC, decorator and visitor pa
 ##How To Use
 
 * Checkout the source: `git clone git://github.com/GarryLiuN/CC3K.git`.
-* Go to code directory and use the Makefile to compile
+* Go to code directory and use the Makefile to compile.
+* `./cc3k` to run the game.
 
 ##Commands
 
