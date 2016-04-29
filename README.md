@@ -18,3 +18,6 @@ This is a rogue-like terminal game written in C++. MVC, decorator and visitor pa
 * <b>a [dir]</b>: to attack creature on [dir] direction. e.g. `a no` to attack monster on north.<br>
 * <b>u [dir]</b>: to use item on [dir] direction.<br>
 * <b>devmode </b>: to enter the cheat mode.<br>
+
+##Design UML
+![alt tag](UML.png)
