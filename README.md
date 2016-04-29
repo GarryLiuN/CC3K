@@ -6,7 +6,7 @@ ChamberCrawler3000(CC3K), created by me and Jiancheng Chen, is our finaly projec
 
 This is a rogue-like terminal game written in C++. MVC, decorator and visitor patterns are used in the project.
 
-<b><p style='color:red'>Do not use thes code in your assignment. It will result  academic integrity violation.</p>
+<p style='color:red'><b>Do not use thes code in your assignment. It will result  academic integrity violation.</p>
 
 ##How To Use
 
